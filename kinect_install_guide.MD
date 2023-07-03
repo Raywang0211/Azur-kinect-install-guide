@@ -1,4 +1,4 @@
-# Azure Kinect SDK 安裝 測試一下
+# Azure Kinect SDK 安裝
 
 可以從官方網站下載SDK，按照官方網站的步驟也可以正確的安裝。
 
